@@ -21,7 +21,7 @@ Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Post
 
 ```
 @article{https://doi.org/10.1002/jcc.70167,
-author = {Wang, YiXu and Müller, Peter C. and Hemker, David and Dronskowski, Richard},
+author = {Wang, YiXu and M{\"u}ller, Peter C. and Hemker, David and Dronskowski, Richard},
 title = {LOPOSTER: A Cascading Postprocessor for LOBSTER},
 journal = {Journal of Computational Chemistry},
 volume = {46},
