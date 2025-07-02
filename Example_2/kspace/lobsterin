@@ -1,0 +1,22 @@
+saveProjectionToFile
+loadProjectionFromFile
+COHPstartEnergy        -15
+COHPendEnergy            5
+autoRotate
+gaussianSmearingWidth 0.05
+usebasisset pbeVaspFit2015
+saveProjectionToFile
+basisfunctions Ni 3d 4s
+basisfunctions N 2s 2p
+basisfunctions C 2s 2p
+skipDOS
+skipCOOP
+skipCOHP
+skipCOBI
+skipMadelungEnergy
+skipGrossPopulation
+skipPopulationanalysis
+createFatband Ni 3d 4s
+createFatband N 2s 2p
+createFatband C 2s 2p
+kSpaceCOHP

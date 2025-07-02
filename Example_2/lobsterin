@@ -1,0 +1,18 @@
+saveProjectionToFile
+loadProjectionFromFile
+COHPstartEnergy        -10
+COHPendEnergy            5
+autoRotate
+gaussianSmearingWidth 0.05
+usebasisset pbeVaspFit2015
+saveProjectionToFile
+basisfunctions Ni 3d 4s
+basisfunctions N 2s 2p
+basisfunctions C 2s 2p
+cohpGenerator from 0 to 4.8 orbitalwise
+DensityofEnergy
+BWDF
+BWDFCOHP
+cobibetween atom 4 atom 8 atom 5 orbitalwise
+cobibetween atom 2 atom 6 atom 2 cell 1 0 0 orbitalwise
+cobibetween atom 2 atom 6 atom 7 atom 3 atom 1 orbitalwise
