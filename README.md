@@ -19,9 +19,15 @@ I have also provided three examples, in accordance with the examples provided in
 Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
 
 In cases of kspace calculations, LOPOSTER can also help to prepare for the NSCF calculation (Please refer to LOBSTER's user manual for more details) by providing an argument: kspace
-The command is
+The commands are:
+
+For Linux:
 ```
 /path/to/LOPOSTER kspace
+```
+For Windows (NOT subsystem):
+```
+\path\to\LOPOSTER.exe kspace
 ```
 
 After the NSCF calculation, one needs to call LOPOSTER again (this time without any argument) for postprocessing.
