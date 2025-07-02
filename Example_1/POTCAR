@@ -1,0 +1,32 @@
+   VRHFIN =Ni:
+   POMASS =   58.690; ZVAL   =   10.000    mass and valenz
+   Atomic configuration
+    9 entries
+     n  l   j            E        occ.
+     1  0  0.50     -8206.4253   2.0000
+     2  0  0.50      -976.1748   2.0000
+     2  1  1.50      -839.0571   6.0000
+     3  0  0.50      -105.9991   2.0000
+     3  1  1.50       -66.4603   6.0000
+     3  2  2.50        -4.6458   9.0000
+     4  0  0.50        -4.4926   1.0000
+     4  1  1.50        -4.0817   0.0000
+     4  3  2.50        -1.3606   0.0000
+   VRHFIN =N: s2p3
+   POMASS =   14.001; ZVAL   =    5.000    mass and valenz
+   Atomic configuration
+    4 entries
+     n  l   j            E        occ.
+     1  0  0.50      -384.7179   2.0000
+     2  0  0.50       -18.5828   2.0000
+     2  1  0.50        -7.0898   3.0000
+     3  2  1.50        -6.8029   0.0000
+   VRHFIN =C: s2p2
+   POMASS =   12.011; ZVAL   =    4.000    mass and valenz
+   Atomic configuration
+    4 entries
+     n  l   j            E        occ.
+     1  0  0.50      -273.3789   2.0000
+     2  0  0.50       -13.7508   2.0000
+     2  1  0.50        -5.2854   2.0000
+     3  2  1.50        -5.4423   0.0000
