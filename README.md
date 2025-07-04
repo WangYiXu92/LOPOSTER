@@ -1,6 +1,7 @@
 # LOPOSTER
 Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 
+## Usage
 To use the software, one simply needs to download the corresponding executable file that can be run on your computer.
 
 One can simply invoke the program by:
@@ -15,6 +16,7 @@ Please double click the icon
 ```
 Or one simply repeats the way to call LOBSTER (You know how to use LOBSTER, don't you?)
 
+##Citation
 I have also provided three examples, in accordance with the examples provided in the paper:
 
 Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
@@ -34,8 +36,10 @@ eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.70167},
 note = {e70167 3504320},
 abstract = {ABSTRACT The computer program LOPOSTER, available via GitHub, is introduced, capable of postprocessing the LOBSTER code results. LOPOSTER is designed to be particularly effective for analyzing large datasets with over 10,000 interactions and enormously reducing postprocessing time. LOPOSTER pioneers the automated processing of advanced bonding analysis results, including multicenter bonding, molecular-orbital formation energy, and k-dependent COHP, expanding the scope of routine chemical-bonding investigations. In addition, LOPOSTER streamlines the postprocessing workflow by providing comprehensive results in a single execution, minimizing user intervention and potential errors. An example of chemical-bonding analysis on NiNCN is provided, with visualization by LOPOSTER. LOPOSTER offers versatile analysis of interactions in NiNCN, enabling evaluations in real or reciprocal space, and based on atomic or molecular orbitals, catering to different analytic preferences. Various correlations between those interactions and magnetism in NiNCN are also explored. The electron-rich features of an N=C=N π bond have been discussed from various perspectives.},
 year = {2025}
+}
 ```
 
+##Preparing for kspace calculations
 In cases of kspace calculations, LOPOSTER can also help to prepare for the NSCF calculation (Please refer to LOBSTER's user manual for more details) by providing an argument: kspace
 The commands are:
 
