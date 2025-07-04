@@ -16,8 +16,19 @@ Please double click the icon
 ```
 Or one simply repeats the way to call LOBSTER (You know how to use LOBSTER, don't you?)
 
-## Citation
+## Examples
+
 I have also provided three examples, in accordance with the examples provided in the paper:
+
+Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
+
+|Name|Explanation|
+|---|---|
+|Example_1|NiNCN without spin polarization|
+|Example_2|NiNCN with spin polarization and FM initial configuration|
+|Example_3|NiNCN with spin polarization and AFM initial configuration|
+
+## Citation
 
 Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
 
