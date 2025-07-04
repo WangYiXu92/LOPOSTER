@@ -13,6 +13,10 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 - Parallelization supported for enhanced efficiency
 - Binary files available, no installation needed
 
+## Download
+For Linux users: Please download `loposter`
+For Windows users: Please download `loposter.exe`
+
 ## Usage
 To use the software, one simply needs to download the corresponding executable file that can be run on your computer.
 
