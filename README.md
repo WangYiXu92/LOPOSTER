@@ -8,6 +8,8 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 - Automatic visualization of orbital contribution matrix of a chemical bond
 - Automatic handling of results with spin polarization
 - Automatic plotting of IMOFE matrix
+- Parallelization supported for enhanced efficiency
+- Binary files available, no installation needed
 
 ## Usage
 To use the software, one simply needs to download the corresponding executable file that can be run on your computer.
