@@ -12,6 +12,7 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 - Automatic visualization of orbital contribution matrix of a chemical bond
 - Automatic handling of results with spin polarization
 - Automatic plotting of IMOFE matrix
+- Automatic plotting of fatband and kspace COHP data
 - Parallelization supported for enhanced efficiency
 - Binary files available, no installation needed
 
