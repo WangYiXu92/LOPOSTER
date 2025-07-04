@@ -1,6 +1,14 @@
 # LOPOSTER
 Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 
+## Features
+- Automatic handling of datafiles from LOBSTER (e.g. COOPCAR.lobster, COHPCAR.lobster, COBICAR.lobster, DOSCAR.lobster......)
+- Automatic handling of a mixture of two-center and multicenter COBI.
+- Automatic calculation and visualization of on-site and off-site cumulative COHP
+- Automatic visualization of orbital contribution matrix of a chemical bond
+- Automatic handling of results with spin polarization
+- Automatic plotting of IMOFE matrix
+
 ## Usage
 To use the software, one simply needs to download the corresponding executable file that can be run on your computer.
 
@@ -30,8 +38,12 @@ Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Post
 
 ## Citation
 
+We kindly request that users of LOPOSTER cite the following paper:
+
+In ACS format:
 Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
 
+In BibTex format:
 ```
 @article{https://doi.org/10.1002/jcc.70167,
 author = {Wang, YiXu and M{\"u}ller, Peter C. and Hemker, David and Dronskowski, Richard},
