@@ -5,8 +5,7 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 
 ## Features
 - Generation of lobsterin files for real space and kspace analyses
-- Automatic detection of datafiles
-- Automatic handling of datafiles from LOBSTER (e.g. COOPCAR.lobster, COHPCAR.lobster, COBICAR.lobster, DOSCAR.lobster......)
+- Automatic handling of datafiles from LOBSTER (e.g. COHPCAR.lobster, ICOHPLIST.lobster......)
 - Automatic handling of a mixture of two-center and multicenter COBI.
 - Automatic calculation and visualization of on-site and off-site cumulative COHP
 - Automatic visualization of orbital contribution matrix of a chemical bond
