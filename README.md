@@ -16,7 +16,7 @@ Please double click the icon
 ```
 Or one simply repeats the way to call LOBSTER (You know how to use LOBSTER, don't you?)
 
-##Citation
+## Citation
 I have also provided three examples, in accordance with the examples provided in the paper:
 
 Wang, Y.; Mueller, P. C.; Hemker, D.; Dronskowski, R. LOPOSTER: A Cascading Postprocessor for LOBSTER. Journal of Computational Chemistry 2025, 46 (17), e70167. https://doi.org/10.1002/jcc.70167.
