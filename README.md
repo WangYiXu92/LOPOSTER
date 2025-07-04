@@ -39,7 +39,7 @@ year = {2025}
 }
 ```
 
-##Preparing for kspace calculations
+## Preparing for kspace calculations
 In cases of kspace calculations, LOPOSTER can also help to prepare for the NSCF calculation (Please refer to LOBSTER's user manual for more details) by providing an argument: kspace
 The commands are:
 
