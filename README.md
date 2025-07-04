@@ -15,6 +15,7 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 
 ## Download
 For Linux users: Please download `loposter`
+
 For Windows users: Please download `loposter.exe`
 
 ## Usage
