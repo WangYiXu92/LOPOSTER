@@ -1,5 +1,7 @@
 # LOPOSTER
 Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
+![TOC](https://github.com/user-attachments/assets/3ff770df-4a9a-4caa-9298-78bb4ad27001)
+
 
 ## Features
 - Generation of lobsterin files for real space and kspace analyses
