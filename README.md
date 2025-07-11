@@ -90,5 +90,9 @@ After the NSCF calculation, one needs to call LOPOSTER again (this time without 
 
 If you find any bugs or malfunctions, please feel free to reach out to me and I will try my best to fix the problems ASAP.
 
+## Control the x axis
+To control the x axis, one needs to add the following line in the `lobsterin` file:
+`!xrange x_min x_max`
+Please note that the `!` is necessary and will help you to refrain from disturbing LOBSTER run.
 
 
