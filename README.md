@@ -95,6 +95,8 @@ To control the x axis, one needs to add the following line in the `lobsterin` fi
 
 ```!xrange x_min x_max```
 
+Please replace `x_min` and `x_max` by the user-defined values.
+
 Please note that the `!` is necessary and will help you to refrain from disturbing LOBSTER run.
 
 
