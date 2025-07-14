@@ -14,6 +14,7 @@ Thank you very much for your interest in LOPOSTER, LOBSTER's postprocessor.
 - Automatic plotting of fatband and kspace COHP data
 - Parallelization supported for enhanced efficiency
 - Binary files available, no installation needed
+- Independent on LOBSTER version
 
 ## Download
 For Linux users: Please download `loposter`
